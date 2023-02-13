@@ -1,0 +1,21 @@
+{
+  "name": "40deea-theme",
+  "displayName": "40DEEA Theme",
+  "description": "Cyan (40DEEA) Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "40DEEA Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/40DEEA Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
