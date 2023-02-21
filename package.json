@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "40DEEA",
   "contributes": {
     "themes": [
       {
@@ -17,5 +18,8 @@
         "path": "./themes/40DEEA Color Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

@@ -1,10 +1,38 @@
 {
 	"name": "40DEEA Color Theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"focusBorder": "#40deea",
+		"toolbar.hoverOutline": "#40deea",
+		"editor.background": "#000000",
+		"editor.foreground": "#40deea",
+		"activityBarBadge.background": "#40deea",
+		"button.background": "#40deea",
+		"button.foreground": "#121212",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"list.activeSelectionBackground": "#40deea",
+		"list.activeSelectionForeground": "#121212",
+		"list.focusBackground": "#40deea",
+		"list.focusForeground": "#121212",
+		"list.hoverBackground": "#40deeaaf",
+		"list.hoverForeground": "#121212",
+		"list.errorForeground": "#ff1717",
+		"list.warningForeground": "#f97516",
+		"list.inactiveSelectionBackground": "#40deea",
+		"list.inactiveSelectionForeground": "#121212",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#40deea",
+		"activityBar.activeBorder": "#40deea",
+		"sideBar.background": "#080808",
+		"sideBarSectionHeader.background": "#0f0f0f",
+		"sideBarSectionHeader.border": "#40deea",
+		"tab.activeBackground": "#000000",
+		"tab.activeForeground": "#40deea",
+		"tab.inactiveBackground": "#0f0f0f",
+		"titleBar.activeBackground": "#000000",
+		"titleBar.activeForeground": "#40deea",
+		"menu.background": "#0f0f0f",
+		"notifications.background": "#0f0f0f",
+		"notifications.foreground": "#40deea"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +43,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#0cb600"
 			}
 		},
 		{
